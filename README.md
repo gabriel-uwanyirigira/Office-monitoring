@@ -1,4 +1,4 @@
-# Poultry Farm Monitoring System
+#  Office  Monitoring System
 
 This project is built on <b>React Js</b> for front end and <b>Node Js / Express js</b> for backend, and has an approach to controlling a mysql database that is also being accessed by an <b>ESP32</b> that sends data, to the database, then express js is used to create a resful api to acquire the data in the database to be changed dynamically on the interface of the user
 Currently, two official plugins are available:
